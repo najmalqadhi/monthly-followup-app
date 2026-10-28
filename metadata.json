@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق المتابعة الشهرية",
+  "description": "نظام متكامل لإدارة ومتابعة الأداء الشهري للطلاب مع تطبيق أندرويد ولوحة تحكم ويب للمسؤول وقاعدة بيانات محلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

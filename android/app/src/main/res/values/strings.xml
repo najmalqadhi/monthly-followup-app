@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Monthly Follow-up Application</string>
+    <string name="title_activity_main">Monthly Follow-up Application</string>
+    <string name="package_name">com.najm.followup</string>
+    <string name="custom_url_scheme">com.najm.followup</string>
+</resources>
